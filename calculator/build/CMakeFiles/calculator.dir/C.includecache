@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tagore/Tagore_Pratice/calculator/calc.c
+calc.h
+/home/tagore/Tagore_Pratice/calculator/calc.h
+
+/home/tagore/Tagore_Pratice/calculator/calc.h
+
