@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tagore/Tagore_Pratice/CMake_Files/Calculator_Machine/calc.h
+
+/home/tagore/Tagore_Pratice/CMake_Files/Calculator_Machine/main.c
+stdio.h
+-
+calc.h
+/home/tagore/Tagore_Pratice/CMake_Files/Calculator_Machine/calc.h
+

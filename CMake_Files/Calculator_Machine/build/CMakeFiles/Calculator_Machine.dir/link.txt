@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Calculator_Machine.dir/main.c.o CMakeFiles/Calculator_Machine.dir/calc.c.o  -o Calculator_Machine 

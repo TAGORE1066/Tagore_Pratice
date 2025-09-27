@@ -1,0 +1,3 @@
+/home/tagore/Tagore_Pratice/CMake_Files/Calculator_Machine/build/CMakeFiles/rebuild_cache.dir
+/home/tagore/Tagore_Pratice/CMake_Files/Calculator_Machine/build/CMakeFiles/edit_cache.dir
+/home/tagore/Tagore_Pratice/CMake_Files/Calculator_Machine/build/CMakeFiles/Calculator_Machine.dir
