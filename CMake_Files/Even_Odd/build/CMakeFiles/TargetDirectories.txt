@@ -1,0 +1,3 @@
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/build/CMakeFiles/rebuild_cache.dir
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/build/CMakeFiles/edit_cache.dir
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/build/CMakeFiles/even.dir

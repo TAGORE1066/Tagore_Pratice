@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/even.dir/main.c.o CMakeFiles/even.dir/chech.c.o  -o even 

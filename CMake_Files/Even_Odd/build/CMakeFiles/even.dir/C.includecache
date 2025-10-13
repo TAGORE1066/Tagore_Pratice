@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/chech.c
+stdio.h
+-
+checker.h
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/checker.h
+
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/checker.h
+
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/main.c
+stdio.h
+-
+checker.h
+/home/tagore/Tagore_Pratice/CMake_Files/Even_Odd/checker.h
+
