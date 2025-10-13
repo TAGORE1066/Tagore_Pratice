@@ -1,0 +1,3 @@
+/home/tagore/Tagore_Pratice/CMake_Files/Prime_Numbers/build/CMakeFiles/rebuild_cache.dir
+/home/tagore/Tagore_Pratice/CMake_Files/Prime_Numbers/build/CMakeFiles/edit_cache.dir
+/home/tagore/Tagore_Pratice/CMake_Files/Prime_Numbers/build/CMakeFiles/prime_check.dir

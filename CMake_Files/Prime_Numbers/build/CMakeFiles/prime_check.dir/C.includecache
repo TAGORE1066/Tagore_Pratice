@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tagore/Tagore_Pratice/CMake_Files/Prime_Numbers/main.c
+stdio.h
+-
+prime.h
+/home/tagore/Tagore_Pratice/CMake_Files/Prime_Numbers/prime.h
+
+/home/tagore/Tagore_Pratice/CMake_Files/Prime_Numbers/prime.h
+
